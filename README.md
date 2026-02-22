@@ -11,7 +11,7 @@ I enjoy working end-to-end on customer-facing features, making clear tradeoffs, 
 
 ## Featured project
 - **Palette** — canvas-based editor inspired by Canva/Figma, exploring scalable interaction patterns and rendering performance  
-  → https://github.com/<your-username>/palette
+  → [https://github.com/mattensor/palette](https://github.com/mattensor/palette)
 
 ## Tech
 React · TypeScript · Node · Performance · UI architecture

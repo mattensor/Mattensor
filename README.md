@@ -1,23 +1,19 @@
-### Welcome to my GitHub page 👋
- 
-Here is my [LinkedIn profile](https://www.linkedin.com/in/matt-ensor)  
-Chat to me on [twitter](https://twitter.com/mattensor_io)  
-Reach out to me at [hi@mattensor.io](mailto:hi@mattensor.io)  
+# Matt Ensor
 
+Senior Product Engineer (Frontend) focused on building high-quality product experiences with **React** and **TypeScript**.
 
-<!--
-**Mattensor/Mattensor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working end-to-end on customer-facing features, making clear tradeoffs, and building frontend systems that stay fast and maintainable as products scale.
 
-Here are some ideas to get you started:
+## Current focus
+- Interaction-heavy UI systems (canvas/editors, drag/resize, zoom/pan)
+- Frontend architecture & performance (rendering, state, virtualization)
+- Product-driven engineering: turning ambiguous problems into shippable solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Featured project
+- **Palette** — canvas-based editor inspired by Canva/Figma, exploring scalable interaction patterns and rendering performance  
+  → https://github.com/<your-username>/palette
 
-My site is at [mattensor.io](https://mattensor.io/) 
--->
+## Tech
+React · TypeScript · Node · Performance · UI architecture
+
+_Developing in Australia · Relocating to Sydney mid-2026_

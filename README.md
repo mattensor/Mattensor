@@ -1,19 +1,11 @@
 # Matt Ensor
 
-Senior Product Engineer (Frontend) focused on building high-quality product experiences with **React** and **TypeScript**.
+Senior Full Stack Product Engineer building customer-facing web applications with React, TypeScript, Node.js and AWS.
 
-I enjoy working end-to-end on customer-facing features, making clear tradeoffs, and building frontend systems that stay fast and maintainable as products scale.
+Interested in frontend architecture, interaction systems, and performance. I enjoy turning ambiguous product problems into practical, maintainable solutions.
 
-## Current focus
-- Interaction-heavy UI systems (canvas/editors, drag/resize, zoom/pan)
-- Frontend architecture & performance (rendering, state, virtualization)
-- Product-driven engineering: turning ambiguous problems into shippable solutions
+Currently building Palette — a canvas-based editor exploring rendering, state management, and interaction patterns at scale.
 
-## Featured project
-- **Palette** — canvas-based editor inspired by Canva/Figma, exploring scalable interaction patterns and rendering performance  
-  → [https://github.com/mattensor/palette](https://github.com/mattensor/palette)
+→ https://github.com/mattensor/palette
 
-## Tech
-React · TypeScript · Node · Performance · UI architecture
-
-_Developing in Australia · Relocating to Sydney mid-2026_
+React · TypeScript · Node.js · AWS · System Design

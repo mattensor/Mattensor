@@ -4,7 +4,7 @@ Senior Full Stack Product Engineer building customer-facing web applications wit
 
 Interested in frontend architecture, interaction systems, and performance. I enjoy turning ambiguous product problems into practical, maintainable solutions.
 
-Currently building Palette — a canvas-based editor exploring rendering, state management, and interaction patterns at scale.
+Currently building Palette, a canvas-based editor exploring rendering, state management, and interaction patterns at scale.
 
 → https://github.com/mattensor/palette
 
